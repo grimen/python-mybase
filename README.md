@@ -1,7 +1,7 @@
 
 # `mybase` [![Build Status](https://travis-ci.com/grimen/python-mybase.svg?branch=master)](https://travis-ci.com/grimen/python-mybase) [![PyPI version](https://badge.fury.io/py/mybase.svg)](https://badge.fury.io/py/mybase)
 
-*My library base class - for Python.*
+*My friendly library base class - for Python.*
 
 ## Introduction
 
