@@ -69,7 +69,6 @@ version = '0.0.0'
 description = 'My friendly library base class - for Python.'
 keywords = [
     'library',
-    'libraries',
     'base',
     'baseclass',
     'logger',
