@@ -7,6 +7,8 @@
 
 One in general tend to need a library specific base class, but creating one for every new library with some common logger customization means redundant work every time. This library base class right now don't do much now beside setting up a default logger, but keeps library code a bit cleaner.
 
+**NOTE:** Possibly should support being used as a mixin (e.g. `@mybase.mixin`) optionally, but not yet implemented.
+
 
 ## Install
 
