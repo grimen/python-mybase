@@ -10,7 +10,6 @@ rootpath.append()
 from mybase.tests import helper
 
 import mybase
-import stringcase
 import logging
 
 from os import environ
