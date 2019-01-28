@@ -65,7 +65,7 @@ def get_requirements():
 # --------------------------------------
 
 name = 'mybase'
-version = '0.0.0'
+version = '0.1.0'
 description = 'My friendly library base class - for Python.'
 keywords = [
     'library',
