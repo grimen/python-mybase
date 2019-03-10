@@ -1,7 +1,6 @@
 rootpath >= 0.1.0
 mybad >= 0.1.0
 inspecta >= 0.1.0
-chalk >= 2.1.0
 
 colour-runner >= 0.0.5
 deepdiff >= 3.3.0
