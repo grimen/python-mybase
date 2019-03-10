@@ -1,5 +1,5 @@
 
-# `mybase` [![Build Status](https://travis-ci.com/grimen/python-mybase.svg?branch=master)](https://travis-ci.com/grimen/python-mybase) [![PyPI version](https://badge.fury.io/py/mybase.svg)](https://badge.fury.io/py/mybase)
+# `mybase` [![Build Status](https://travis-ci.com/grimen/python-mybase.svg?branch=master)](https://travis-ci.com/grimen/python-mybase) [![PyPI version](https://badge.fury.io/py/mybase.svg)](https://badge.fury.io/py/mybase) [![Coverage Status](https://codecov.io/gh/grimen/python-mybase/branch/master/graph/badge.svg)](https://codecov.io/gh/grimen/python-mybase)
 
 *My friendly library base class - for Python.*
 
